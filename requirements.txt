@@ -1,7 +1,0 @@
-mss
-opencv-python
-pyttsx3
-telebot
-clipboard
-secure-delete
-pyAesCrypt
